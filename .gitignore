@@ -19,3 +19,7 @@
 
 # Go workspace file
 go.work
+project-ls/main
+project-http-twitter/twitter
+project-http-twitter/main
+project-http-hello/main
